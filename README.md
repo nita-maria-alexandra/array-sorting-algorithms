@@ -1,5 +1,9 @@
-# Sorting Algorithms for Beginners
+# Sorting Algorithm for Integer Arrays
+
 We implement 3 sorting algorithms for integer arrays.
-# Sorting Algorithm for Integer Arrays
-# Sorting Algorithm for Integer Arrays
-Add Merge Sort implementation.
+
+## Bubble Sort
+
+The Bubble Sort algorithm sorts the array in ascending order.
+
+The algorithm is implemented in C.
